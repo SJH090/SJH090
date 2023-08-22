@@ -1,8 +1,8 @@
 ![](assets/Header_CN.svg)
 
 <table align="right">
- <tr><td><a href="README.md"><img src="assets/cn-flag.png" height="13"> 中文</a></td></tr>
- <tr><td><a href="README_en.md"><img src="assets/en-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README.md"><img src="assets/cn-flag.svg" height="13"> 中文</a></td></tr>
+ <tr><td><a href="README_en.md"><img src="assets/en-flag.svg" height="13"> English</a></td></tr>
 </table>
 
 <p align="center">
