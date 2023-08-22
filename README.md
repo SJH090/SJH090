@@ -1,4 +1,4 @@
-![](assets/Header_CN.svg)
+![Header](assets/Header_CN.svg)
 
 <table align="right">
  <tr><td><a href="README.md"><img src="assets/cn-flag.svg" height="13"> 中文 </a></td></tr>
