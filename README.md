@@ -1,10 +1,5 @@
 ![Header](assets/Header_CN.svg)
 
-<table align="right">
- <tr><td><a href="README.md"><img src="assets/cn-flag.svg"> 中文 </a></td></tr>
- <tr><td><a href="README_en.md"><img src="assets/en-flag.svg" height="140"> English </a></td></tr>
-</table>
-
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/BLOG-%231DA1F2.svg?&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/HOME-%23FF7000.svg?&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
