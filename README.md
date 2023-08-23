@@ -21,3 +21,7 @@
 ![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
 </details>
+
+![XPoet github stats](https://github-readme-stats.vercel.app/api?username=SJH090&show_icons=true&theme=nord)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SJH090&hide=html,css)
