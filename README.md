@@ -14,7 +14,6 @@
 - :meat_on_bone: Meat lover
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJH090&hide=html,css,scss,javascript&locale=CN" />
-
 <details open>
   <summary><b>:computer: &nbsp;主要掌握的技能</b></summary>
   <br/>
