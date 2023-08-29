@@ -81,11 +81,3 @@
   <br><br>
   <img align="bottom" src="https://profile-counter.glitch.me/sjh090/count.svg" />
 </p>
-
-![ASD](assets/Header_CN.svg#gh-dark-mode-only)
-
-@media (prefers-color-scheme: light) :root[data-color-mode=auto] .entry-content [href$="#gh-dark-mode-only"],
-    :root[data-color-mode=auto] .comment-body [href$="#gh-dark-mode-only"],
-    :root[data-color-mode=auto] .readme [href$="#gh-dark-mode-only"] {
-    display: none;
-}
