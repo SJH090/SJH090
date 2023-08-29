@@ -5,8 +5,15 @@
   <a href="#"><img src="https://img.shields.io/badge/HOME-%23FF7000.svg?&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-![XPoet github stats](https://github-readme-stats.vercel.app/api?username=SJH090&show_icons=true&theme=nord&locale=CN)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SJH090&hide=html,css,scss,javascript&locale=CN)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SJH090&theme=nord&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&locale=CN" />
+
+### 你好，世界 👋
+- :orange_book: Focusing on Swift & iOS
+- :hammer: Creator of applications and frameworks
+- :ram: Founder the ObjCCN
+- :meat_on_bone: Meat lover
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJH090&hide=html,css,scss,javascript&locale=CN" />
 
 <details open>
   <summary><b>:computer: &nbsp;主要掌握的技能</b></summary>
