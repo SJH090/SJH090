@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/BLOG-%231DA1F2.svg?&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="bottom" src="https://profile-counter.glitch.me/sjh090/count.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/HOME-%23FF7000.svg?&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -13,7 +14,6 @@
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJH090&hide=html,css,scss,javascript&locale=CN" />
 <details open>
   <summary><b>:computer: &nbsp;主要掌握的技能</b></summary>
   <br/>
