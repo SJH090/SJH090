@@ -2,7 +2,6 @@
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/BLOG-%231DA1F2.svg?&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="bottom" src="https://profile-counter.glitch.me/sjh090/count.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://img.shields.io/badge/HOME-%23FF7000.svg?&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
@@ -76,3 +75,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 <img width="100%" src="assets/hr.gif" />
+
+<p align="center">
+  <span>访客数</span>
+  <br><br>
+  <img align="bottom" src="https://profile-counter.glitch.me/sjh090/count.svg" />
+</p>
