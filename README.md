@@ -60,7 +60,7 @@
 
 </details>
 
-📕 &nbsp;**最新博客文章**
+📕 &nbsp;**[我关注的]最新博客文章**
 
 <sup>我的近期动态（点个 [Star](https://github.com/SJH090/SJH090) 将触发自动刷新，最近更新时间 :clock1230: `2023-08-29 00:20:28`）</sup>
 <!-- BLOG-POST-LIST:START -->
