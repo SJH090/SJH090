@@ -7,9 +7,6 @@
   <a href="https://sjh090.github.io/blog/"><img src="https://img.shields.io/badge/BLOG-%231DA1F2.svg?&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<!-- 最常用的语言 -->
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJH090&layout=compact&theme=tokyonight&hide_title=true&locale=CN" />
-
 <!-- 我的Github统计数据 -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SJH090&theme=nord&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&locale=CN" />
 
@@ -20,19 +17,22 @@
 - :meat_on_bone: Meat lover
 
 <details open>
-  <summary><b>:computer: &nbsp;主要掌握的技能</b></summary>
+  <summary><b>:computer: &nbsp;主要掌握的技能</b><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif"></summary>
   <br/>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJH090&layout=compact&theme=tokyonight&hide_title=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_border=true&locale=CN" />
 
 ![LINUX](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
-![jenkins](https://img.shields.io/badge/JENKINS-D24939.svg?&style=flat&logo=jenkins&logoColor=white)&nbsp;
-![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white)&nbsp;\
-![MariaDB](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)&nbsp;
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?&style=flat&logo=vuedotjs&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;\
+![Redis](https://img.shields.io/badge/REDIS-DC382D.svg?&style=flat&logo=redis&logoColor=white)&nbsp;
+![Kafka](https://img.shields.io/badge/APACHA%20KAFKA-231F20.svg?&style=flat&logo=apache-kafka&logoColor=white)&nbsp;
+![jenkins](https://img.shields.io/badge/JENKINS-D24939.svg?&style=flat&logo=jenkins&logoColor=white)&nbsp;\
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MONGODB-47A248.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
-![Kafka](https://img.shields.io/badge/APACHA%20KAFKA-231F20.svg?&style=flat&logo=apache-kafka&logoColor=white)&nbsp;\
-![Nginx](https://img.shields.io/badge/NGINX-009639.svg?&style=flat&logo=nginx&logoColor=white)&nbsp;
+![Nginx](https://img.shields.io/badge/NGINX-009639.svg?&style=flat&logo=nginx&logoColor=white)&nbsp;\
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5.svg?&style=flat&logo=kubernetes&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
@@ -44,7 +44,6 @@
   <br/>
 
 ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
-![Kotlin](https://img.shields.io/badge/KOTLIN-0095D5.svg?&style=flat&logo=kotlin&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28.svg?&style=flat&logo=firebase&logoColor=black)&nbsp;
 ![NestJS](https://img.shields.io/badge/NESTJS-E0234E.svg?&style=flat&logo=nestjs&logoColor=white)&nbsp;
 ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;\
@@ -65,6 +64,11 @@
 ![ILLUSTRATOR](https://img.shields.io/badge/ILLUSTRATOR-FFAE1A.svg?&style=flat&logo=adobe-illustrator&logoColor=black)&nbsp;
 
 </details>
+
+📕 &nbsp;**我的自豪项目**
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shaoting0730&repo=Flutter_learn_demo)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shaoting0730&repo=Flutter_learn_demo)
 
 📕 &nbsp;**[我关注的]最新博客文章**
 
