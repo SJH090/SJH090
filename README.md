@@ -65,10 +65,14 @@
 
 </details>
 
-📕 &nbsp;**我的自豪项目**
+<details open>
+  <summary><b>:brain: &nbsp;我的自豪项目</b></summary>
+  <br/>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shaoting0730&repo=Flutter_learn_demo)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shaoting0730&repo=Flutter_learn_demo)
+
+</details>
 
 📕 &nbsp;**[我关注的]最新博客文章**
 
