@@ -1,8 +1,8 @@
 ![Header](assets/Header_Welcome.svg)
 
 <p align="center">
-  <a href="https://sjh090.github.io/"><img src="https://img.shields.io/badge/BLOG-%231DA1F2.svg?&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://sjh090.github.io/blog/"><img src="https://img.shields.io/badge/HOME-%23FF7000.svg?&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://sjh090.github.io/"><img src="https://img.shields.io/badge/HOME-%23FF7000.svg?&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://sjh090.github.io/blog/"><img src="https://img.shields.io/badge/BLOG-%231DA1F2.svg?&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <!-- 我的Github统计数据 -->
@@ -13,9 +13,6 @@
 - :hammer: Creator of applications and frameworks
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
-
-<!-- 最常用的语言 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJH090&layout=compact&theme=tokyonight&hide_title=true&locale=CN" />
 
 <details open>
   <summary><b>:computer: &nbsp;主要掌握的技能</b></summary>
@@ -36,8 +33,6 @@
 ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
 
 </details>
-
-
 
 <details>
   <summary><b>:brain: &nbsp;其他仍在学习中的技能</b></summary>
@@ -77,14 +72,14 @@
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 <!-- BLOG-POST-LIST:END -->
 
-
-
 <p align="center">
   <span>访客数</span>
   <br><br>
   <img align="bottom" src="https://profile-counter.glitch.me/sjh090/count.svg" />
 </p>
 
+<!-- 最常用的语言 -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJH090&layout=compact&theme=tokyonight&hide_title=true&locale=CN" />
 
 以下是三种显示图片的方法（都没在用）
 
