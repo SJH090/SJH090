@@ -72,8 +72,6 @@
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 <!-- BLOG-POST-LIST:END -->
 
-<img width="100%" src="assets/rainbow.svg" />
-
 <p align="center">
   <span>访客数</span>
   <br><br>
@@ -84,6 +82,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJH090&layout=compact&theme=tokyonight&hide_title=true&locale=CN" />
 
 以下是三种显示图片的方法（都没在用）
+
+<img width="100%" src="assets/rainbow.svg" />
 
 根据主题切换
 <picture>
