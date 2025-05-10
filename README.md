@@ -1,9 +1,14 @@
-![Header](assets/Header_Welcome.svg)
+![](assets/Header_Welcome.svg)
+<!-- ![](https://raw.githubusercontent.com/SJH090/SJH090/main/assets/Header_Welcome.svg) -->
+<!-- ![](https://cdn.jsdelivr.net/gh/SJH090/SJH090@main/assets/Header_Welcome.svg) -->
 
 <p align="center">
   <a href="https://sjh090.github.io/"><img src="https://img.shields.io/badge/HOME-%23FF7000.svg?&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://sjh090.github.io/blog/"><img src="https://img.shields.io/badge/BLOG-%231DA1F2.svg?&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+<!-- 最常用的语言 -->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJH090&layout=compact&theme=tokyonight&hide_title=true&locale=CN" />
 
 <!-- 我的Github统计数据 -->
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=SJH090&theme=nord&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&locale=CN" />
@@ -77,21 +82,3 @@
   <br><br>
   <img align="bottom" src="https://profile-counter.glitch.me/sjh090/count.svg" />
 </p>
-
-<!-- 最常用的语言 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJH090&layout=compact&theme=tokyonight&hide_title=true&locale=CN" />
-
-以下是三种显示图片的方法（都没在用）
-
-<img width="100%" src="assets/rainbow.svg" />
-
-根据主题切换
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://threeal.github.io/threeal/grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://threeal.github.io/threeal/grid-snake-light.svg" />
-</picture>
-
-原链接
-![](https://raw.githubusercontent.com/SJH090/SJH090/main/assets/Header_Welcome.svg)
-镜像
-![](https://cdn.jsdelivr.net/gh/SJH090/SJH090@main/assets/Header_Welcome.svg)
