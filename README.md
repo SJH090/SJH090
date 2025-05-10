@@ -87,8 +87,8 @@
 
 根据主题切换
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/Header_Welcome.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/Header_Welcome.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/b.jpeg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/w.jpeg" />
 </picture>
 
 原链接
