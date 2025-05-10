@@ -87,8 +87,8 @@
 
 根据主题切换
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/b.jpeg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/w.jpeg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://threeal.github.io/threeal/grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://threeal.github.io/threeal/grid-snake-light.svg" />
 </picture>
 
 原链接
