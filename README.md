@@ -6,16 +6,16 @@
 </p>
 
 <!-- 我的Github统计数据 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SJH090&theme=nord&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&locale=CN" />
-<!-- 最常用的语言 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJH090&layout=compact&theme=tokyonight&locale=CN" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=huidbk&show_icons=true&count_private=true&theme=vue-light&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=SJH090&theme=nord&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&locale=CN" />
 
 ### 你好，世界 👋
 - :orange_book: Focusing on Swift & iOS
 - :hammer: Creator of applications and frameworks
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
+
+<!-- 最常用的语言 -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJH090&layout=compact&theme=tokyonight&locale=CN" />
 
 <details open>
   <summary><b>:computer: &nbsp;主要掌握的技能</b></summary>
@@ -36,6 +36,8 @@
 ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
 
 </details>
+
+
 
 <details>
   <summary><b>:brain: &nbsp;其他仍在学习中的技能</b></summary>
