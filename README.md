@@ -72,6 +72,8 @@
 - [Skipping the Chrome &quot;Your connection is not private&quot; warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
 <!-- BLOG-POST-LIST:END -->
 
+<img width="100%" src="assets/rainbow.svg" />
+
 <p align="center">
   <span>访客数</span>
   <br><br>
@@ -83,12 +85,13 @@
 
 以下是三种显示图片的方法（都没在用）
 
+根据主题切换
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/Header_Welcome.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/Header_Welcome.svg" />
 </picture>
 
-<img width="100%" src="assets/Header_Welcome.svg" />
-
+原链接
 ![](https://raw.githubusercontent.com/SJH090/SJH090/main/assets/Header_Welcome.svg)
+镜像
 ![](https://cdn.jsdelivr.net/gh/SJH090/SJH090@main/assets/Header_Welcome.svg)
